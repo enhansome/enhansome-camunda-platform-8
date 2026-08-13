@@ -1,0 +1,670 @@
+{
+  "items": [
+    {
+      "description": "Client libraries to interact with Camunda Platform 8 and Zeebe",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Java",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Spring",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2026-08-12T02:40:35Z",
+                "owner": "camunda-community-hub",
+                "repo": "spring-zeebe",
+                "stars": 215
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Micronaut",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2026-03-20T01:12:39Z",
+                "owner": "camunda-community-hub",
+                "repo": "micronaut-zeebe-client",
+                "stars": 28
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T20:58:24Z",
+            "owner": "camunda",
+            "repo": "camunda",
+            "stars": 4247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T20:58:24Z",
+            "owner": "camunda",
+            "repo": "camunda",
+            "stars": 4247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Node.js",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NestJS",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2024-02-01T16:17:36Z",
+                "owner": "camunda-community-hub",
+                "repo": "nestjs-zeebe",
+                "stars": 28
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-04-08T02:59:16Z",
+            "owner": "camunda-community-hub",
+            "repo": "zeebe-client-node-js",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C#",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T02:53:22Z",
+            "owner": "camunda-community-hub",
+            "repo": "zeebe-client-csharp",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WorkIt",
+          "description": "Node.js (TypeScript) client for both Zeebe and Camunda BPM platforms (Not updated for Zeebe 1.0.0)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T16:48:38Z",
+            "owner": "VilledeMontreal",
+            "repo": "workit",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rust",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-08-20T21:53:43Z",
+            "owner": "camunda-community-hub",
+            "repo": "zeebest",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Delphi",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Pascal",
+            "last_commit": "2023-12-15T02:28:08Z",
+            "owner": "camunda-community-hub",
+            "repo": "DelphiZeeBeClient",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ruby",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Beez",
+              "description": "Simple, efficient ruby workers for Zeebe (Not updated for Zeebe 1.0.0)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2023-01-19T22:23:22Z",
+                "owner": "gottfrois",
+                "repo": "beez",
+                "stars": 9
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2024-11-29T09:48:01Z",
+            "owner": "zeebe-io",
+            "repo": "zeebe-client-ruby",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Python:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Pyzeebe",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-13T08:46:18Z",
+                "owner": "camunda-community-hub",
+                "repo": "pyzeebe",
+                "stars": 101
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Clients and Programming Framework Integrations"
+    },
+    {
+      "description": "Job Worker: A special type of client that polls for and executes available jobs. In contrast to connectors and bridges, such workers do not connect to other active pieces of software primarily (for example, a 'DMN Connector' might connect Zeebe to a managed DMN Engine, a 'DMN worker' will use a DMN library to execute decisions).",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DMN Scala",
+          "description": "Zeebe job worker using the Scala DMN engine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-07-22T06:45:31Z",
+            "owner": "camunda",
+            "repo": "dmn-scala",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Script",
+          "description": "Zeebe job worker for evaluating JS, Groovy, Kotlin and FEEL scripts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T15:16:23Z",
+            "owner": "camunda-community-hub",
+            "repo": "script-connector",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Camunda DMN",
+          "description": "Zeebe job worker using the Camunda DMN engine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-03T10:42:32Z",
+            "owner": "camunda-community-hub",
+            "repo": "zeebe-dmn-worker",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zeebe Slack Worker",
+          "description": "A Node.js library for building job workers that send messages to Slack based on service tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-12-15T05:40:49Z",
+            "owner": "camunda-community-hub",
+            "repo": "zeebe-slack-worker",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Job Workers"
+    },
+    {
+      "description": "Exporters to load data into external systems, only available with Camunda Platform 8 Self-Managed.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Elasticsearch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T20:58:24Z",
+            "owner": "camunda",
+            "repo": "camunda",
+            "stars": 4247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hazelcast",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-04-13T09:24:09Z",
+            "owner": "camunda-community-hub",
+            "repo": "zeebe-hazelcast-exporter",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kafka",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-06-23T08:39:52Z",
+            "owner": "camunda-community-hub",
+            "repo": "zeebe-kafka-exporter",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Incident Alerter (Webhook)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2024-12-19T21:37:10Z",
+            "owner": "jwulf",
+            "repo": "zeebe-incident-alerter",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MongoDB",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-10-31T09:26:21Z",
+            "owner": "crossid",
+            "repo": "zeebe-mongo-exporter",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Event Store",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-06-24T21:45:15Z",
+            "owner": "jwulf",
+            "repo": "zeebe-eventstore-exporter",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CSV",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2023-02-27T10:09:39Z",
+            "owner": "zeebe-io",
+            "repo": "zeebe-csv-exporter",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NATS Streaming Server",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2020-03-21T15:44:17Z",
+            "owner": "MrSaints",
+            "repo": "zeebe-nats-streaming-exporter",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Exporters"
+    },
+    {
+      "description": "Applications to interact with Camunda Platform 8 and Zeebe",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Simple Monitor",
+          "description": "A lightweight application for monitoring and interacting with Zeebe during development",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-04-11T16:54:51Z",
+            "owner": "camunda-community-hub",
+            "repo": "zeebe-simple-monitor",
+            "stars": 180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zeebe Simple Tasklist",
+          "description": "Zeebe job worker for manual/user tasks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-06-05T12:35:43Z",
+            "owner": "camunda-community-hub",
+            "repo": "zeebe-simple-tasklist",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZeeQS",
+          "description": "GraphQL query API for aggregated Zeebe data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2025-06-05T12:41:49Z",
+            "owner": "camunda-community-hub",
+            "repo": "zeeqs",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quintessential Task List",
+          "description": "The quintessential Zeebe tasklist for BPMN Human tasks with Drag and Drop Form builder, client and server side validations, and drop in Form Rendering",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-02-11T23:53:08Z",
+            "owner": "StephenOTT",
+            "repo": "Quintessential-Tasklist-Zeebe",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Workflow Linter",
+          "description": "Workflow Linter for BPMN workflows",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2020-02-11T23:52:37Z",
+            "owner": "StephenOTT",
+            "repo": "Workflow-Linter",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python-Zeebe Sandbox",
+          "description": "A FastAPI python sandbox for Zeebe to deploy workflows, run instances and publish messages. This dockerised app runs Zeebe Simple Monitor, a single node Zeebe broker and a FastAPI python container to allow exploration/investigation of Zeebe features and workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-06-01T03:57:42Z",
+            "owner": "ohmycaptainnemo",
+            "repo": "python-zeebe",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zeebe Cloud Canary",
+          "description": "Monitor the aliveness of a Zeebe broker",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-08-11T15:42:37Z",
+            "owner": "jwulf",
+            "repo": "zeebe-cloud-canary",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Applications"
+    },
+    {
+      "description": "Test utilities to help you develop Camunda Platform 8 or Zeebe-dependent applications",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BPMN Spec",
+          "description": "a tool to write tests for BPMN workflows on run them on Zeebe",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2024-10-25T07:14:15Z",
+            "owner": "camunda-community-hub",
+            "repo": "zeebe-spec",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zeebe Test Container",
+          "description": "TestContainers module to help you write integration tests against configurable Zeebe instances.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T20:24:12Z",
+            "owner": "camunda-community-hub",
+            "repo": "zeebe-test-container",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Benchmark Helm Profile",
+          "description": "a Helm chart configuration for benchmarking.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2026-07-29T19:41:01Z",
+            "owner": "camunda-community-hub",
+            "repo": "camunda-8-helm-profiles",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zeebe Chaos",
+          "description": "contains everything related to chaos engineering and Zeebe, like chaos experiments, an hypotheses backlog etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T20:20:10Z",
+            "owner": "camunda",
+            "repo": "zeebe-chaos",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Camunda 8 Benchmark (c8b)",
+          "description": "a load generator for Zeebe.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T11:56:43Z",
+            "owner": "camunda-community-hub",
+            "repo": "camunda-8-benchmark",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zeebe Worker Java Testutils",
+          "description": "Utilities to test Zeebe workers implemented in Java",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-06-05T12:47:53Z",
+            "owner": "camunda-community-hub",
+            "repo": "zeebe-worker-java-testutils",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zeebe BPMN RSpec",
+          "description": "Ruby gem to test workflow logic in Zeebe using RSpec.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-04-16T21:42:18Z",
+            "owner": "ezcater",
+            "repo": "zeebe_bpmn_rspec",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zeebe Tuner",
+          "description": "an iterative benchmark runner parameterized using a spreadsheet.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-06T16:41:41Z",
+            "owner": "camunda-consulting",
+            "repo": "zeebe-tuner",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": "Other Camunda Platform 8 & Zeebe related applications",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FEEL REPL",
+          "description": "easily try FEEL expressions using the REPL (Read-Eval-Print-Loop) of the FEEL Scala engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-07-31T19:52:47Z",
+            "owner": "camunda",
+            "repo": "feel-scala",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zdb",
+          "description": "Zeebe debug and inspection tool, allows to inspect the log and internal state of Zeebe.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T12:36:21Z",
+            "owner": "ChrisKujawa",
+            "repo": "zdb",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zeebe-worker-java-template",
+          "description": "Minimal template for a Zeebe Java worker. This template adds only the bare minimum of dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-12-15T17:41:45Z",
+            "owner": "camunda-community-hub",
+            "repo": "zeebe-worker-java-template",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Others"
+    },
+    {
+      "description": "Please help us keep this list up to date! PRs welcome, follow our contribution guidelines.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "To the extent possible under law, Zeebe has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T20:59:25.450Z",
+    "original_repository": "camunda-community-hub/awesome-camunda-platform-8",
+    "original_repository_sha": "d60346bd0cdc167af981c117f030636fabe180a3",
+    "enhanced_repository": "enhansome/enhansome-camunda-platform-8",
+    "enhanced_repository_description": null,
+    "title": "Awesome Projects with stars"
+  }
+}
