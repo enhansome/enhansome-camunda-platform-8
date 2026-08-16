@@ -40,7 +40,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T20:25:48Z",
+            "last_commit": "2026-08-16T20:10:44Z",
             "owner": "camunda",
             "repo": "camunda",
             "stars": 4249
@@ -54,7 +54,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T20:25:48Z",
+            "last_commit": "2026-08-16T20:10:44Z",
             "owner": "camunda",
             "repo": "camunda",
             "stars": 4249
@@ -187,7 +187,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-14T23:08:33Z",
+                "last_commit": "2026-08-16T02:59:51Z",
                 "owner": "camunda-community-hub",
                 "repo": "pyzeebe",
                 "stars": 101
@@ -271,7 +271,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T20:25:48Z",
+            "last_commit": "2026-08-16T20:10:44Z",
             "owner": "camunda",
             "repo": "camunda",
             "stars": 4249
@@ -507,7 +507,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T20:24:12Z",
+            "last_commit": "2026-08-16T19:22:14Z",
             "owner": "camunda-community-hub",
             "repo": "zeebe-test-container",
             "stars": 24
@@ -660,7 +660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T20:35:14.137Z",
+    "last_updated": "2026-08-16T20:34:46.224Z",
     "original_repository": "camunda-community-hub/awesome-camunda-platform-8",
     "original_repository_sha": "d60346bd0cdc167af981c117f030636fabe180a3",
     "enhanced_repository": "enhansome/enhansome-camunda-platform-8",
