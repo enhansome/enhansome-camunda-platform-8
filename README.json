@@ -16,7 +16,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Java",
-                "last_commit": "2026-08-14T21:28:58Z",
+                "last_commit": "2026-08-17T03:54:10Z",
                 "owner": "camunda-community-hub",
                 "repo": "spring-zeebe",
                 "stars": 215
@@ -40,10 +40,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-16T20:10:44Z",
+            "last_commit": "2026-08-17T20:30:11Z",
             "owner": "camunda",
             "repo": "camunda",
-            "stars": 4249
+            "stars": 4251
           }
         },
         {
@@ -54,10 +54,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-16T20:10:44Z",
+            "last_commit": "2026-08-17T20:30:11Z",
             "owner": "camunda",
             "repo": "camunda",
-            "stars": 4249
+            "stars": 4251
           }
         },
         {
@@ -97,7 +97,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-15T03:15:18Z",
+            "last_commit": "2026-08-17T08:10:37Z",
             "owner": "camunda-community-hub",
             "repo": "zeebe-client-csharp",
             "stars": 114
@@ -187,7 +187,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-16T02:59:51Z",
+                "last_commit": "2026-08-17T09:39:48Z",
                 "owner": "camunda-community-hub",
                 "repo": "pyzeebe",
                 "stars": 101
@@ -223,7 +223,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T14:57:44Z",
+            "last_commit": "2026-08-17T03:48:35Z",
             "owner": "camunda-community-hub",
             "repo": "script-connector",
             "stars": 33
@@ -271,10 +271,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-16T20:10:44Z",
+            "last_commit": "2026-08-17T20:30:11Z",
             "owner": "camunda",
             "repo": "camunda",
-            "stars": 4249
+            "stars": 4251
           }
         },
         {
@@ -507,7 +507,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-16T19:22:14Z",
+            "last_commit": "2026-08-17T19:18:29Z",
             "owner": "camunda-community-hub",
             "repo": "zeebe-test-container",
             "stars": 24
@@ -535,7 +535,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T20:54:14Z",
+            "last_commit": "2026-08-17T09:30:36Z",
             "owner": "camunda",
             "repo": "zeebe-chaos",
             "stars": 23
@@ -549,7 +549,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T03:30:33Z",
+            "last_commit": "2026-08-17T19:27:56Z",
             "owner": "camunda-community-hub",
             "repo": "camunda-8-benchmark",
             "stars": 22
@@ -611,7 +611,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-14T17:52:39Z",
+            "last_commit": "2026-08-17T19:53:02Z",
             "owner": "camunda",
             "repo": "feel-scala",
             "stars": 136
@@ -625,7 +625,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T05:41:45Z",
+            "last_commit": "2026-08-17T15:42:06Z",
             "owner": "ChrisKujawa",
             "repo": "zdb",
             "stars": 34
@@ -660,7 +660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T20:34:46.224Z",
+    "last_updated": "2026-08-17T20:39:06.042Z",
     "original_repository": "camunda-community-hub/awesome-camunda-platform-8",
     "original_repository_sha": "d60346bd0cdc167af981c117f030636fabe180a3",
     "enhanced_repository": "enhansome/enhansome-camunda-platform-8",
