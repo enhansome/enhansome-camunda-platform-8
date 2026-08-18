@@ -40,7 +40,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T20:30:11Z",
+            "last_commit": "2026-08-18T20:32:43Z",
             "owner": "camunda",
             "repo": "camunda",
             "stars": 4251
@@ -54,7 +54,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T20:30:11Z",
+            "last_commit": "2026-08-18T20:32:43Z",
             "owner": "camunda",
             "repo": "camunda",
             "stars": 4251
@@ -223,7 +223,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T03:48:35Z",
+            "last_commit": "2026-08-18T19:11:45Z",
             "owner": "camunda-community-hub",
             "repo": "script-connector",
             "stars": 33
@@ -271,7 +271,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T20:30:11Z",
+            "last_commit": "2026-08-18T20:32:43Z",
             "owner": "camunda",
             "repo": "camunda",
             "stars": 4251
@@ -549,7 +549,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T19:27:56Z",
+            "last_commit": "2026-08-18T12:05:31Z",
             "owner": "camunda-community-hub",
             "repo": "camunda-8-benchmark",
             "stars": 22
@@ -611,7 +611,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-17T19:53:02Z",
+            "last_commit": "2026-08-18T08:56:24Z",
             "owner": "camunda",
             "repo": "feel-scala",
             "stars": 136
@@ -660,7 +660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T20:39:06.042Z",
+    "last_updated": "2026-08-18T20:36:41.942Z",
     "original_repository": "camunda-community-hub/awesome-camunda-platform-8",
     "original_repository_sha": "d60346bd0cdc167af981c117f030636fabe180a3",
     "enhanced_repository": "enhansome/enhansome-camunda-platform-8",
