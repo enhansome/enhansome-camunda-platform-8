@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "Client libraries to interact with Camunda Platform 8 and Zeebe",
+      "description": "Client libraries to interact with Camunda Platform 8 and Zeebe\nWant a client for another language?\nThanks to gRPC you can generate client stubs easily as described in Generating a Zeebe-Python Client Stub in Less Than An Hour: A gRPC + Zeebe Tutorial.",
       "items": [
         {
           "node_type": "item",
@@ -15,6 +15,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 101650961,
                 "language": "Java",
                 "last_commit": "2026-08-17T03:54:10Z",
                 "owner": "camunda-community-hub",
@@ -29,6 +30,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 402690792,
                 "language": "Java",
                 "last_commit": "2026-03-20T01:12:39Z",
                 "owner": "camunda-community-hub",
@@ -39,11 +41,12 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 54298946,
             "language": "Java",
-            "last_commit": "2026-08-18T20:32:43Z",
+            "last_commit": "2026-08-19T12:20:48Z",
             "owner": "camunda",
             "repo": "camunda",
-            "stars": 4251
+            "stars": 4252
           }
         },
         {
@@ -53,11 +56,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54298946,
             "language": "Java",
-            "last_commit": "2026-08-18T20:32:43Z",
+            "last_commit": "2026-08-19T12:20:48Z",
             "owner": "camunda",
             "repo": "camunda",
-            "stars": 4251
+            "stars": 4252
           }
         },
         {
@@ -72,6 +76,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 291975608,
                 "language": "TypeScript",
                 "last_commit": "2024-02-01T16:17:36Z",
                 "owner": "camunda-community-hub",
@@ -82,6 +87,7 @@
           ],
           "repo_info": {
             "archived": true,
+            "id": 167303075,
             "language": "TypeScript",
             "last_commit": "2024-04-08T02:59:16Z",
             "owner": "camunda-community-hub",
@@ -96,6 +102,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 136618661,
             "language": "C#",
             "last_commit": "2026-08-17T08:10:37Z",
             "owner": "camunda-community-hub",
@@ -110,6 +117,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 192401032,
             "language": "TypeScript",
             "last_commit": "2026-08-10T16:48:38Z",
             "owner": "VilledeMontreal",
@@ -124,6 +132,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 186512671,
             "language": "Rust",
             "last_commit": "2025-08-20T21:53:43Z",
             "owner": "camunda-community-hub",
@@ -138,6 +147,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 234047902,
             "language": "Pascal",
             "last_commit": "2023-12-15T02:28:08Z",
             "owner": "camunda-community-hub",
@@ -157,6 +167,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 198065968,
                 "language": "Ruby",
                 "last_commit": "2023-01-19T22:23:22Z",
                 "owner": "gottfrois",
@@ -167,6 +178,7 @@
           ],
           "repo_info": {
             "archived": true,
+            "id": 159821362,
             "language": "Ruby",
             "last_commit": "2024-11-29T09:48:01Z",
             "owner": "zeebe-io",
@@ -186,6 +198,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 289557083,
                 "language": "Python",
                 "last_commit": "2026-08-17T09:39:48Z",
                 "owner": "camunda-community-hub",
@@ -199,6 +212,57 @@
       "title": "Clients and Programming Framework Integrations"
     },
     {
+      "description": "Connector: A reusable building block that performs the integration with an external system and works out of the box.\nBridge: A piece of software that connects Camunda Platform 8 or Zeebe with some other system or infrastructure. Might be uni or bidirectional and possibly includes a job worker.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kafka Connector",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 144678800,
+            "language": "Java",
+            "last_commit": "2025-06-05T12:34:48Z",
+            "owner": "camunda-community-hub",
+            "repo": "kafka-connect-zeebe",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Node-RED Zeebe nodes",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 201066385,
+            "language": "JavaScript",
+            "last_commit": "2023-12-15T17:59:03Z",
+            "owner": "camunda-community-hub",
+            "repo": "node-red-contrib-zeebe",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lambda",
+          "description": "A Zeebe worker to invoke AWS Lambdas (Serverless functions), allowing to orchestrate functions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 261709480,
+            "language": "Java",
+            "last_commit": "2023-12-15T20:13:57Z",
+            "owner": "camunda-community-hub",
+            "repo": "zeebe-lambda-connector",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Connectors and Bridges"
+    },
+    {
       "description": "Job Worker: A special type of client that polls for and executes available jobs. In contrast to connectors and bridges, such workers do not connect to other active pieces of software primarily (for example, a 'DMN Connector' might connect Zeebe to a managed DMN Engine, a 'DMN worker' will use a DMN library to execute decisions).",
       "items": [
         {
@@ -208,6 +272,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 108846690,
             "language": "Scala",
             "last_commit": "2026-07-22T06:45:31Z",
             "owner": "camunda",
@@ -222,8 +287,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 139808923,
             "language": "Java",
-            "last_commit": "2026-08-18T19:11:45Z",
+            "last_commit": "2026-08-19T09:52:37Z",
             "owner": "camunda-community-hub",
             "repo": "script-connector",
             "stars": 33
@@ -236,6 +302,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100463046,
             "language": "Java",
             "last_commit": "2026-02-03T10:42:32Z",
             "owner": "camunda-community-hub",
@@ -250,6 +317,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 218500721,
             "language": "TypeScript",
             "last_commit": "2023-12-15T05:40:49Z",
             "owner": "camunda-community-hub",
@@ -261,7 +329,7 @@
       "title": "Job Workers"
     },
     {
-      "description": "Exporters to load data into external systems, only available with Camunda Platform 8 Self-Managed.",
+      "description": "Exporters to load data into external systems, only available with Camunda Platform 8 Self-Managed.\nWant an exporter for another system?\nYou can build one in as little as 15 minutes. Take a look at the Zeebe Exporter Demo, and the tutorial blog posts Part One and Part Two.",
       "items": [
         {
           "node_type": "item",
@@ -270,11 +338,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54298946,
             "language": "Java",
-            "last_commit": "2026-08-18T20:32:43Z",
+            "last_commit": "2026-08-19T12:20:48Z",
             "owner": "camunda",
             "repo": "camunda",
-            "stars": 4251
+            "stars": 4252
           }
         },
         {
@@ -284,6 +353,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 161649954,
             "language": "Java",
             "last_commit": "2026-04-13T09:24:09Z",
             "owner": "camunda-community-hub",
@@ -298,6 +368,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 161493518,
             "language": "Java",
             "last_commit": "2025-06-23T08:39:52Z",
             "owner": "camunda-community-hub",
@@ -312,6 +383,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 238079535,
             "language": "Kotlin",
             "last_commit": "2024-12-19T21:37:10Z",
             "owner": "jwulf",
@@ -326,6 +398,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 316927065,
             "language": "Java",
             "last_commit": "2024-10-31T09:26:21Z",
             "owner": "crossid",
@@ -340,6 +413,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 188881401,
             "language": "Java",
             "last_commit": "2024-06-24T21:45:15Z",
             "owner": "jwulf",
@@ -354,6 +428,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 172377811,
             "language": "Java",
             "last_commit": "2023-02-27T10:09:39Z",
             "owner": "zeebe-io",
@@ -368,6 +443,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 245019769,
             "language": "Go",
             "last_commit": "2020-03-21T15:44:17Z",
             "owner": "MrSaints",
@@ -388,6 +464,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73847953,
             "language": "Java",
             "last_commit": "2026-04-11T16:54:51Z",
             "owner": "camunda-community-hub",
@@ -402,6 +479,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 171086583,
             "language": "Java",
             "last_commit": "2025-06-05T12:35:43Z",
             "owner": "camunda-community-hub",
@@ -416,6 +494,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 237922743,
             "language": "Kotlin",
             "last_commit": "2025-06-05T12:41:49Z",
             "owner": "camunda-community-hub",
@@ -430,6 +509,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 202908772,
             "language": "Java",
             "last_commit": "2020-02-11T23:53:08Z",
             "owner": "StephenOTT",
@@ -444,6 +524,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 232010039,
             "language": "Kotlin",
             "last_commit": "2020-02-11T23:52:37Z",
             "owner": "StephenOTT",
@@ -458,6 +539,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 368763041,
             "language": "Python",
             "last_commit": "2021-06-01T03:57:42Z",
             "owner": "ohmycaptainnemo",
@@ -472,6 +554,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 219264922,
             "language": "TypeScript",
             "last_commit": "2021-08-11T15:42:37Z",
             "owner": "jwulf",
@@ -492,6 +575,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 286915454,
             "language": "Kotlin",
             "last_commit": "2024-10-25T07:14:15Z",
             "owner": "camunda-community-hub",
@@ -506,6 +590,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 198629008,
             "language": "Java",
             "last_commit": "2026-08-17T19:18:29Z",
             "owner": "camunda-community-hub",
@@ -520,6 +605,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 235579902,
             "language": "Makefile",
             "last_commit": "2026-07-29T19:41:01Z",
             "owner": "camunda-community-hub",
@@ -534,8 +620,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 242151636,
             "language": "Go",
-            "last_commit": "2026-08-17T09:30:36Z",
+            "last_commit": "2026-08-19T07:21:53Z",
             "owner": "camunda",
             "repo": "zeebe-chaos",
             "stars": 23
@@ -548,8 +635,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 469785700,
             "language": "Java",
-            "last_commit": "2026-08-18T12:05:31Z",
+            "last_commit": "2026-08-19T10:57:36Z",
             "owner": "camunda-community-hub",
             "repo": "camunda-8-benchmark",
             "stars": 22
@@ -562,6 +650,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 368452533,
             "language": "Java",
             "last_commit": "2025-06-05T12:47:53Z",
             "owner": "camunda-community-hub",
@@ -576,6 +665,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 280853215,
             "language": "Ruby",
             "last_commit": "2026-04-16T21:42:18Z",
             "owner": "ezcater",
@@ -590,6 +680,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 476309619,
             "language": "Java",
             "last_commit": "2026-08-06T16:41:41Z",
             "owner": "camunda-consulting",
@@ -610,6 +701,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42704441,
             "language": "Scala",
             "last_commit": "2026-08-18T08:56:24Z",
             "owner": "camunda",
@@ -624,6 +716,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 286702661,
             "language": "Java",
             "last_commit": "2026-08-17T15:42:06Z",
             "owner": "ChrisKujawa",
@@ -638,6 +731,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 444754381,
             "language": "Java",
             "last_commit": "2023-12-15T17:41:45Z",
             "owner": "camunda-community-hub",
@@ -647,21 +741,12 @@
         }
       ],
       "title": "Others"
-    },
-    {
-      "description": "Please help us keep this list up to date! PRs welcome, follow our contribution guidelines.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "To the extent possible under law, Zeebe has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T20:36:41.942Z",
+    "last_updated": "2026-08-19T12:20:53.767Z",
     "original_repository": "camunda-community-hub/awesome-camunda-platform-8",
+    "original_repository_id": 162282009,
     "original_repository_sha": "d60346bd0cdc167af981c117f030636fabe180a3",
     "enhanced_repository": "enhansome/enhansome-camunda-platform-8",
     "enhanced_repository_description": null,
