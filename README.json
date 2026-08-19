@@ -43,7 +43,7 @@
             "archived": false,
             "id": 54298946,
             "language": "Java",
-            "last_commit": "2026-08-19T12:20:48Z",
+            "last_commit": "2026-08-19T20:33:33Z",
             "owner": "camunda",
             "repo": "camunda",
             "stars": 4252
@@ -58,7 +58,7 @@
             "archived": false,
             "id": 54298946,
             "language": "Java",
-            "last_commit": "2026-08-19T12:20:48Z",
+            "last_commit": "2026-08-19T20:33:33Z",
             "owner": "camunda",
             "repo": "camunda",
             "stars": 4252
@@ -340,7 +340,7 @@
             "archived": false,
             "id": 54298946,
             "language": "Java",
-            "last_commit": "2026-08-19T12:20:48Z",
+            "last_commit": "2026-08-19T20:33:33Z",
             "owner": "camunda",
             "repo": "camunda",
             "stars": 4252
@@ -622,7 +622,7 @@
             "archived": false,
             "id": 242151636,
             "language": "Go",
-            "last_commit": "2026-08-19T07:21:53Z",
+            "last_commit": "2026-08-19T17:25:07Z",
             "owner": "camunda",
             "repo": "zeebe-chaos",
             "stars": 23
@@ -703,7 +703,7 @@
             "archived": false,
             "id": 42704441,
             "language": "Scala",
-            "last_commit": "2026-08-18T08:56:24Z",
+            "last_commit": "2026-08-19T17:52:36Z",
             "owner": "camunda",
             "repo": "feel-scala",
             "stars": 136
@@ -744,7 +744,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:20:53.767Z",
+    "last_updated": "2026-08-19T20:41:26.236Z",
     "original_repository": "camunda-community-hub/awesome-camunda-platform-8",
     "original_repository_id": 162282009,
     "original_repository_sha": "d60346bd0cdc167af981c117f030636fabe180a3",
