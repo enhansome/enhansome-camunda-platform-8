@@ -43,10 +43,10 @@
             "archived": false,
             "id": 54298946,
             "language": "Java",
-            "last_commit": "2026-08-22T20:21:44Z",
+            "last_commit": "2026-08-23T20:13:50Z",
             "owner": "camunda",
             "repo": "camunda",
-            "stars": 4254
+            "stars": 4253
           }
         },
         {
@@ -58,10 +58,10 @@
             "archived": false,
             "id": 54298946,
             "language": "Java",
-            "last_commit": "2026-08-22T20:21:44Z",
+            "last_commit": "2026-08-23T20:13:50Z",
             "owner": "camunda",
             "repo": "camunda",
-            "stars": 4254
+            "stars": 4253
           }
         },
         {
@@ -200,7 +200,7 @@
                 "archived": false,
                 "id": 289557083,
                 "language": "Python",
-                "last_commit": "2026-08-22T03:50:02Z",
+                "last_commit": "2026-08-23T03:42:40Z",
                 "owner": "camunda-community-hub",
                 "repo": "pyzeebe",
                 "stars": 101
@@ -340,10 +340,10 @@
             "archived": false,
             "id": 54298946,
             "language": "Java",
-            "last_commit": "2026-08-22T20:21:44Z",
+            "last_commit": "2026-08-23T20:13:50Z",
             "owner": "camunda",
             "repo": "camunda",
-            "stars": 4254
+            "stars": 4253
           }
         },
         {
@@ -744,7 +744,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T20:35:46.269Z",
+    "last_updated": "2026-08-23T20:35:27.863Z",
     "original_repository": "camunda-community-hub/awesome-camunda-platform-8",
     "original_repository_id": 162282009,
     "original_repository_sha": "d60346bd0cdc167af981c117f030636fabe180a3",
