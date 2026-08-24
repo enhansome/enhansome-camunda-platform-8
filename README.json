@@ -43,10 +43,10 @@
             "archived": false,
             "id": 54298946,
             "language": "Java",
-            "last_commit": "2026-08-24T14:36:34Z",
+            "last_commit": "2026-08-24T20:39:46Z",
             "owner": "camunda",
             "repo": "camunda",
-            "stars": 4253
+            "stars": 4254
           }
         },
         {
@@ -58,10 +58,10 @@
             "archived": false,
             "id": 54298946,
             "language": "Java",
-            "last_commit": "2026-08-24T14:36:34Z",
+            "last_commit": "2026-08-24T20:39:46Z",
             "owner": "camunda",
             "repo": "camunda",
-            "stars": 4253
+            "stars": 4254
           }
         },
         {
@@ -355,10 +355,10 @@
             "archived": false,
             "id": 54298946,
             "language": "Java",
-            "last_commit": "2026-08-24T14:36:34Z",
+            "last_commit": "2026-08-24T20:39:46Z",
             "owner": "camunda",
             "repo": "camunda",
-            "stars": 4253
+            "stars": 4254
           }
         },
         {
@@ -733,7 +733,7 @@
             "archived": false,
             "id": 286702661,
             "language": "Java",
-            "last_commit": "2026-08-22T09:08:53Z",
+            "last_commit": "2026-08-24T16:10:11Z",
             "owner": "ChrisKujawa",
             "repo": "zdb",
             "stars": 34
@@ -759,7 +759,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:36:52.490Z",
+    "last_updated": "2026-08-24T20:44:55.186Z",
     "original_repository": "camunda-community-hub/awesome-camunda-platform-8",
     "original_repository_id": 162282009,
     "original_repository_sha": "d60346bd0cdc167af981c117f030636fabe180a3",
