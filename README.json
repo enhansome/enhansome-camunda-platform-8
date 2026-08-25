@@ -17,7 +17,7 @@
                 "archived": false,
                 "id": 101650961,
                 "language": "Java",
-                "last_commit": "2026-08-21T21:01:16Z",
+                "last_commit": "2026-08-25T15:57:44Z",
                 "owner": "camunda-community-hub",
                 "repo": "spring-zeebe",
                 "stars": 215
@@ -43,7 +43,7 @@
             "archived": false,
             "id": 54298946,
             "language": "Java",
-            "last_commit": "2026-08-25T06:27:17Z",
+            "last_commit": "2026-08-25T20:28:44Z",
             "owner": "camunda",
             "repo": "camunda",
             "stars": 4254
@@ -58,7 +58,7 @@
             "archived": false,
             "id": 54298946,
             "language": "Java",
-            "last_commit": "2026-08-25T06:27:17Z",
+            "last_commit": "2026-08-25T20:28:44Z",
             "owner": "camunda",
             "repo": "camunda",
             "stars": 4254
@@ -104,7 +104,7 @@
             "archived": false,
             "id": 136618661,
             "language": "C#",
-            "last_commit": "2026-08-21T03:34:09Z",
+            "last_commit": "2026-08-25T18:46:28Z",
             "owner": "camunda-community-hub",
             "repo": "zeebe-client-csharp",
             "stars": 114
@@ -200,7 +200,7 @@
                 "archived": false,
                 "id": 289557083,
                 "language": "Python",
-                "last_commit": "2026-08-24T04:16:30Z",
+                "last_commit": "2026-08-25T18:48:57Z",
                 "owner": "camunda-community-hub",
                 "repo": "pyzeebe",
                 "stars": 101
@@ -289,7 +289,7 @@
             "archived": false,
             "id": 108846690,
             "language": "Scala",
-            "last_commit": "2026-08-25T00:52:37Z",
+            "last_commit": "2026-08-25T06:50:41Z",
             "owner": "camunda",
             "repo": "dmn-scala",
             "stars": 42
@@ -304,7 +304,7 @@
             "archived": false,
             "id": 139808923,
             "language": "Java",
-            "last_commit": "2026-08-22T07:44:17Z",
+            "last_commit": "2026-08-25T16:15:49Z",
             "owner": "camunda-community-hub",
             "repo": "script-connector",
             "stars": 33
@@ -355,7 +355,7 @@
             "archived": false,
             "id": 54298946,
             "language": "Java",
-            "last_commit": "2026-08-25T06:27:17Z",
+            "last_commit": "2026-08-25T20:28:44Z",
             "owner": "camunda",
             "repo": "camunda",
             "stars": 4254
@@ -637,7 +637,7 @@
             "archived": false,
             "id": 242151636,
             "language": "Go",
-            "last_commit": "2026-08-24T13:53:53Z",
+            "last_commit": "2026-08-25T17:28:11Z",
             "owner": "camunda",
             "repo": "zeebe-chaos",
             "stars": 23
@@ -652,7 +652,7 @@
             "archived": false,
             "id": 469785700,
             "language": "Java",
-            "last_commit": "2026-08-22T03:50:02Z",
+            "last_commit": "2026-08-25T18:42:04Z",
             "owner": "camunda-community-hub",
             "repo": "camunda-8-benchmark",
             "stars": 21
@@ -759,7 +759,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:31:14.879Z",
+    "last_updated": "2026-08-25T20:42:25.256Z",
     "original_repository": "camunda-community-hub/awesome-camunda-platform-8",
     "original_repository_id": 162282009,
     "original_repository_sha": "d60346bd0cdc167af981c117f030636fabe180a3",
