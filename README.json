@@ -43,7 +43,7 @@
             "archived": false,
             "id": 54298946,
             "language": "Java",
-            "last_commit": "2026-08-26T23:12:31Z",
+            "last_commit": "2026-08-27T11:31:57Z",
             "owner": "camunda",
             "repo": "camunda",
             "stars": 4255
@@ -58,7 +58,7 @@
             "archived": false,
             "id": 54298946,
             "language": "Java",
-            "last_commit": "2026-08-26T23:12:31Z",
+            "last_commit": "2026-08-27T11:31:57Z",
             "owner": "camunda",
             "repo": "camunda",
             "stars": 4255
@@ -304,7 +304,7 @@
             "archived": false,
             "id": 139808923,
             "language": "Java",
-            "last_commit": "2026-08-26T03:55:47Z",
+            "last_commit": "2026-08-27T09:41:42Z",
             "owner": "camunda-community-hub",
             "repo": "script-connector",
             "stars": 33
@@ -355,7 +355,7 @@
             "archived": false,
             "id": 54298946,
             "language": "Java",
-            "last_commit": "2026-08-26T23:12:31Z",
+            "last_commit": "2026-08-27T11:31:57Z",
             "owner": "camunda",
             "repo": "camunda",
             "stars": 4255
@@ -759,9 +759,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T23:26:54.626Z",
-    "original_repository": "camunda-community-hub/awesome-camunda-platform-8",
-    "original_repository_id": 162282009,
+    "last_updated": "2026-08-27T11:31:59.264Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 162282009,
+      "language": null,
+      "last_commit": "2024-05-02T08:45:48Z",
+      "owner": "camunda-community-hub",
+      "repo": "awesome-camunda-platform-8",
+      "stars": 142
+    },
     "original_repository_sha": "d60346bd0cdc167af981c117f030636fabe180a3",
     "enhanced_repository": "enhansome/enhansome-camunda-platform-8",
     "enhanced_repository_description": null,
