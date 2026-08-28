@@ -17,11 +17,12 @@
                 "archived": false,
                 "id": 101650961,
                 "language": "Java",
-                "last_commit": "2026-08-25T15:57:44Z",
+                "last_commit": "2026-08-27T18:52:47Z",
                 "owner": "camunda-community-hub",
                 "repo": "spring-zeebe",
                 "stars": 215
-              }
+              },
+              "first_seen": "2026-08-28T04:21:05.936Z"
             },
             {
               "node_type": "item",
@@ -36,18 +37,20 @@
                 "owner": "camunda-community-hub",
                 "repo": "micronaut-zeebe-client",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T04:21:05.936Z"
             }
           ],
           "repo_info": {
             "archived": false,
             "id": 54298946,
             "language": "Java",
-            "last_commit": "2026-08-27T11:31:57Z",
+            "last_commit": "2026-08-28T03:46:38Z",
             "owner": "camunda",
             "repo": "camunda",
             "stars": 4255
-          }
+          },
+          "first_seen": "2026-08-28T04:21:05.936Z"
         },
         {
           "node_type": "item",
@@ -58,11 +61,12 @@
             "archived": false,
             "id": 54298946,
             "language": "Java",
-            "last_commit": "2026-08-27T11:31:57Z",
+            "last_commit": "2026-08-28T03:46:38Z",
             "owner": "camunda",
             "repo": "camunda",
             "stars": 4255
-          }
+          },
+          "first_seen": "2026-08-28T04:21:05.936Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
                 "owner": "camunda-community-hub",
                 "repo": "nestjs-zeebe",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T04:21:05.936Z"
             }
           ],
           "repo_info": {
@@ -93,7 +98,8 @@
             "owner": "camunda-community-hub",
             "repo": "zeebe-client-node-js",
             "stars": 151
-          }
+          },
+          "first_seen": "2026-08-28T04:21:05.936Z"
         },
         {
           "node_type": "item",
@@ -108,7 +114,8 @@
             "owner": "camunda-community-hub",
             "repo": "zeebe-client-csharp",
             "stars": 114
-          }
+          },
+          "first_seen": "2026-08-28T04:21:05.936Z"
         },
         {
           "node_type": "item",
@@ -123,7 +130,8 @@
             "owner": "VilledeMontreal",
             "repo": "workit",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T04:21:05.936Z"
         },
         {
           "node_type": "item",
@@ -138,7 +146,8 @@
             "owner": "camunda-community-hub",
             "repo": "zeebest",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T04:21:05.936Z"
         },
         {
           "node_type": "item",
@@ -153,7 +162,8 @@
             "owner": "camunda-community-hub",
             "repo": "DelphiZeeBeClient",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T04:21:05.936Z"
         },
         {
           "node_type": "item",
@@ -173,7 +183,8 @@
                 "owner": "gottfrois",
                 "repo": "beez",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T04:21:05.936Z"
             }
           ],
           "repo_info": {
@@ -184,7 +195,8 @@
             "owner": "zeebe-io",
             "repo": "zeebe-client-ruby",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T04:21:05.936Z"
         },
         {
           "node_type": "group",
@@ -200,11 +212,12 @@
                 "archived": false,
                 "id": 289557083,
                 "language": "Python",
-                "last_commit": "2026-08-26T09:08:45Z",
+                "last_commit": "2026-08-28T00:38:52Z",
                 "owner": "camunda-community-hub",
                 "repo": "pyzeebe",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-28T04:21:05.936Z"
             }
           ]
         }
@@ -227,7 +240,8 @@
             "owner": "camunda-community-hub",
             "repo": "camunda-8-connectors",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T04:21:05.936Z"
         },
         {
           "node_type": "item",
@@ -242,7 +256,8 @@
             "owner": "camunda-community-hub",
             "repo": "kafka-connect-zeebe",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-28T04:21:05.936Z"
         },
         {
           "node_type": "item",
@@ -257,7 +272,8 @@
             "owner": "camunda-community-hub",
             "repo": "node-red-contrib-zeebe",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T04:21:05.936Z"
         },
         {
           "node_type": "item",
@@ -272,7 +288,8 @@
             "owner": "camunda-community-hub",
             "repo": "zeebe-lambda-connector",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T04:21:05.936Z"
         }
       ],
       "title": "Connectors and Bridges"
@@ -293,7 +310,8 @@
             "owner": "camunda",
             "repo": "dmn-scala",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T04:21:05.936Z"
         },
         {
           "node_type": "item",
@@ -304,11 +322,12 @@
             "archived": false,
             "id": 139808923,
             "language": "Java",
-            "last_commit": "2026-08-27T09:41:42Z",
+            "last_commit": "2026-08-28T00:38:53Z",
             "owner": "camunda-community-hub",
             "repo": "script-connector",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T04:21:05.936Z"
         },
         {
           "node_type": "item",
@@ -323,7 +342,8 @@
             "owner": "camunda-community-hub",
             "repo": "zeebe-dmn-worker",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T04:21:05.936Z"
         },
         {
           "node_type": "item",
@@ -338,7 +358,8 @@
             "owner": "camunda-community-hub",
             "repo": "zeebe-slack-worker",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T04:21:05.936Z"
         }
       ],
       "title": "Job Workers"
@@ -355,11 +376,12 @@
             "archived": false,
             "id": 54298946,
             "language": "Java",
-            "last_commit": "2026-08-27T11:31:57Z",
+            "last_commit": "2026-08-28T03:46:38Z",
             "owner": "camunda",
             "repo": "camunda",
             "stars": 4255
-          }
+          },
+          "first_seen": "2026-08-28T04:21:05.936Z"
         },
         {
           "node_type": "item",
@@ -374,7 +396,8 @@
             "owner": "camunda-community-hub",
             "repo": "zeebe-hazelcast-exporter",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T04:21:05.936Z"
         },
         {
           "node_type": "item",
@@ -389,7 +412,8 @@
             "owner": "camunda-community-hub",
             "repo": "zeebe-kafka-exporter",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T04:21:05.936Z"
         },
         {
           "node_type": "item",
@@ -404,7 +428,8 @@
             "owner": "jwulf",
             "repo": "zeebe-incident-alerter",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T04:21:05.936Z"
         },
         {
           "node_type": "item",
@@ -419,7 +444,8 @@
             "owner": "crossid",
             "repo": "zeebe-mongo-exporter",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T04:21:05.936Z"
         },
         {
           "node_type": "item",
@@ -434,7 +460,8 @@
             "owner": "jwulf",
             "repo": "zeebe-eventstore-exporter",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T04:21:05.936Z"
         },
         {
           "node_type": "item",
@@ -449,7 +476,8 @@
             "owner": "zeebe-io",
             "repo": "zeebe-csv-exporter",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T04:21:05.936Z"
         },
         {
           "node_type": "item",
@@ -464,7 +492,8 @@
             "owner": "MrSaints",
             "repo": "zeebe-nats-streaming-exporter",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T04:21:05.936Z"
         }
       ],
       "title": "Exporters"
@@ -485,7 +514,8 @@
             "owner": "camunda-community-hub",
             "repo": "zeebe-simple-monitor",
             "stars": 180
-          }
+          },
+          "first_seen": "2026-08-28T04:21:05.936Z"
         },
         {
           "node_type": "item",
@@ -500,7 +530,8 @@
             "owner": "camunda-community-hub",
             "repo": "zeebe-simple-tasklist",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-28T04:21:05.936Z"
         },
         {
           "node_type": "item",
@@ -515,7 +546,8 @@
             "owner": "camunda-community-hub",
             "repo": "zeeqs",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T04:21:05.936Z"
         },
         {
           "node_type": "item",
@@ -530,7 +562,8 @@
             "owner": "StephenOTT",
             "repo": "Quintessential-Tasklist-Zeebe",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T04:21:05.936Z"
         },
         {
           "node_type": "item",
@@ -545,7 +578,8 @@
             "owner": "StephenOTT",
             "repo": "Workflow-Linter",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T04:21:05.936Z"
         },
         {
           "node_type": "item",
@@ -560,7 +594,8 @@
             "owner": "ohmycaptainnemo",
             "repo": "python-zeebe",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T04:21:05.936Z"
         },
         {
           "node_type": "item",
@@ -575,7 +610,8 @@
             "owner": "jwulf",
             "repo": "zeebe-cloud-canary",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T04:21:05.936Z"
         }
       ],
       "title": "Applications"
@@ -596,7 +632,8 @@
             "owner": "camunda-community-hub",
             "repo": "zeebe-spec",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T04:21:05.936Z"
         },
         {
           "node_type": "item",
@@ -611,7 +648,8 @@
             "owner": "camunda-community-hub",
             "repo": "zeebe-test-container",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T04:21:05.936Z"
         },
         {
           "node_type": "item",
@@ -626,7 +664,8 @@
             "owner": "camunda-community-hub",
             "repo": "camunda-8-helm-profiles",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T04:21:05.936Z"
         },
         {
           "node_type": "item",
@@ -641,7 +680,8 @@
             "owner": "camunda",
             "repo": "zeebe-chaos",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T04:21:05.936Z"
         },
         {
           "node_type": "item",
@@ -656,7 +696,8 @@
             "owner": "camunda-community-hub",
             "repo": "camunda-8-benchmark",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T04:21:05.936Z"
         },
         {
           "node_type": "item",
@@ -671,7 +712,8 @@
             "owner": "camunda-community-hub",
             "repo": "zeebe-worker-java-testutils",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T04:21:05.936Z"
         },
         {
           "node_type": "item",
@@ -686,7 +728,8 @@
             "owner": "ezcater",
             "repo": "zeebe_bpmn_rspec",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T04:21:05.936Z"
         },
         {
           "node_type": "item",
@@ -701,7 +744,8 @@
             "owner": "camunda-consulting",
             "repo": "zeebe-tuner",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T04:21:05.936Z"
         }
       ],
       "title": "Testing"
@@ -718,11 +762,12 @@
             "archived": false,
             "id": 42704441,
             "language": "Scala",
-            "last_commit": "2026-08-24T09:07:58Z",
+            "last_commit": "2026-08-27T19:52:52Z",
             "owner": "camunda",
             "repo": "feel-scala",
             "stars": 136
-          }
+          },
+          "first_seen": "2026-08-28T04:21:05.936Z"
         },
         {
           "node_type": "item",
@@ -737,7 +782,8 @@
             "owner": "ChrisKujawa",
             "repo": "zdb",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T04:21:05.936Z"
         },
         {
           "node_type": "item",
@@ -752,14 +798,15 @@
             "owner": "camunda-community-hub",
             "repo": "zeebe-worker-java-template",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T04:21:05.936Z"
         }
       ],
       "title": "Others"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:31:59.264Z",
+    "last_updated": "2026-08-28T04:21:05.936Z",
     "original_repository_info": {
       "archived": false,
       "id": 162282009,

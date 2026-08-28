@@ -10,7 +10,7 @@
 <hr />
 </div>
 
-A curated list of awesome [Camunda Platform 8](https://camunda.com/platform/) projects, mostly driven by the community. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 182,404 | 🐛 219 | 🌐 Go | 📅 2026-08-27.
+A curated list of awesome [Camunda Platform 8](https://camunda.com/platform/) projects, mostly driven by the community. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 182,466 | 🐛 218 | 🌐 Go | 📅 2026-08-27.
 
 Previously, this list contained only Zeebe awesome-ness. Help us collect all things awesome about Camunda Platform 8 and Zeebe, the workflow engine powering Camunda Platform 8.
 
@@ -33,10 +33,10 @@ Previously, this list contained only Zeebe awesome-ness. Help us collect all thi
 
 Client libraries to interact with Camunda Platform 8 and Zeebe
 
-* [Java](https://github.com/camunda/zeebe/tree/main/clients/java) ⭐ 4,255 | 🐛 2,934 | 🌐 Java | 📅 2026-08-27
-  * [Spring](https://github.com/camunda-community-hub/spring-zeebe) ⭐ 215 | 🐛 12 | 🌐 Java | 📅 2026-08-25
+* [Java](https://github.com/camunda/zeebe/tree/main/clients/java) ⭐ 4,255 | 🐛 2,922 | 🌐 Java | 📅 2026-08-28
+  * [Spring](https://github.com/camunda-community-hub/spring-zeebe) ⭐ 215 | 🐛 12 | 🌐 Java | 📅 2026-08-27
   * [Micronaut](https://github.com/camunda-community-hub/micronaut-zeebe-client) ⭐ 28 | 🐛 7 | 🌐 Java | 📅 2026-03-20
-* [Go](https://github.com/camunda-cloud/zeebe/tree/master/clients/go) ⭐ 4,255 | 🐛 2,934 | 🌐 Java | 📅 2026-08-27
+* [Go](https://github.com/camunda-cloud/zeebe/tree/master/clients/go) ⭐ 4,255 | 🐛 2,922 | 🌐 Java | 📅 2026-08-28
 * [Node.js](https://github.com/camunda-community-hub/zeebe-client-node-js) ⚠️ Archived
   * [NestJS](https://github.com/camunda-community-hub/nestjs-zeebe#readme) ⭐ 28 | 🐛 0 | 🌐 TypeScript | 📅 2024-02-01
 * [C#](https://github.com/camunda-community-hub/zeebe-client-csharp) ⭐ 114 | 🐛 38 | 🌐 C# | 📅 2026-08-26
@@ -46,7 +46,7 @@ Client libraries to interact with Camunda Platform 8 and Zeebe
 * [Ruby](https://github.com/zeebe-io/zeebe-client-ruby) ⚠️ Archived
   * [Beez](https://github.com/gottfrois/beez) ⭐ 9 | 🐛 11 | 🌐 Ruby | 📅 2023-01-19 - Simple, efficient ruby workers for Zeebe (Not updated for Zeebe 1.0.0)
 * Python:
-  * [Pyzeebe](https://github.com/camunda-community-hub/pyzeebe) ⭐ 101 | 🐛 23 | 🌐 Python | 📅 2026-08-26
+  * [Pyzeebe](https://github.com/camunda-community-hub/pyzeebe) ⭐ 101 | 🐛 23 | 🌐 Python | 📅 2026-08-28
   * [Zeebe Python gRPC](https://pypi.org/project/zeebe-grpc/)
 
 **Want a client for another language?**
@@ -71,7 +71,7 @@ Bridge: A piece of software that connects Camunda Platform 8 or Zeebe with some 
 Job Worker: A special type of client that polls for and executes available jobs. In contrast to connectors and bridges, such workers do not connect to other active pieces of software primarily (for example, a 'DMN Connector' might connect Zeebe to a managed DMN Engine, a 'DMN worker' will use a DMN library to execute decisions).
 
 * [DMN Scala](https://github.com/camunda/dmn-scala/) ⭐ 42 | 🐛 26 | 🌐 Scala | 📅 2026-08-25 - Zeebe job worker using the Scala DMN engine
-* [Script](https://github.com/camunda-community-hub/zeebe-script-worker) ⭐ 33 | 🐛 2 | 🌐 Java | 📅 2026-08-27 - Zeebe job worker for evaluating JS, Groovy, Kotlin and FEEL scripts
+* [Script](https://github.com/camunda-community-hub/zeebe-script-worker) ⭐ 33 | 🐛 2 | 🌐 Java | 📅 2026-08-28 - Zeebe job worker for evaluating JS, Groovy, Kotlin and FEEL scripts
 * [Camunda DMN](https://github.com/camunda-community-hub/zeebe-dmn-worker) ⭐ 19 | 🐛 0 | 🌐 Java | 📅 2026-02-03 - Zeebe job worker using the Camunda DMN engine
 * [Zeebe Slack Worker](https://github.com/camunda-community-hub/zeebe-slack-worker) ⭐ 4 | 🐛 11 | 🌐 TypeScript | 📅 2023-12-15 - A Node.js library for building job workers that send messages to Slack based on service tasks.
 
@@ -79,7 +79,7 @@ Job Worker: A special type of client that polls for and executes available jobs.
 
 Exporters to load data into external systems, only available with Camunda Platform 8 Self-Managed.
 
-* [Elasticsearch](https://github.com/camunda/zeebe/tree/main/exporters/elasticsearch-exporter) ⭐ 4,255 | 🐛 2,934 | 🌐 Java | 📅 2026-08-27
+* [Elasticsearch](https://github.com/camunda/zeebe/tree/main/exporters/elasticsearch-exporter) ⭐ 4,255 | 🐛 2,922 | 🌐 Java | 📅 2026-08-28
 * [Hazelcast](https://github.com/camunda-community-hub/zeebe-hazelcast-exporter) ⭐ 49 | 🐛 10 | 🌐 Java | 📅 2026-04-13
 * [Kafka](https://github.com/camunda-community-hub/zeebe-kafka-exporter) ⭐ 37 | 🐛 39 | 🌐 Java | 📅 2025-06-23
 * [Incident Alerter (Webhook)](https://github.com/jwulf/zeebe-incident-alerter) ⭐ 7 | 🐛 1 | 🌐 Kotlin | 📅 2024-12-19
@@ -127,9 +127,9 @@ Test utilities to help you develop Camunda Platform 8 or Zeebe-dependent applica
 
 Other Camunda Platform 8 & Zeebe related applications
 
-* [FEEL REPL](https://camunda.github.io/feel-scala/docs/reference/#feel-repl) - easily try FEEL expressions using the REPL (Read-Eval-Print-Loop) of the [FEEL Scala engine](https://github.com/camunda/feel-scala) ⭐ 136 | 🐛 44 | 🌐 Scala | 📅 2026-08-24.
+* [FEEL REPL](https://camunda.github.io/feel-scala/docs/reference/#feel-repl) - easily try FEEL expressions using the REPL (Read-Eval-Print-Loop) of the [FEEL Scala engine](https://github.com/camunda/feel-scala) ⭐ 136 | 🐛 45 | 🌐 Scala | 📅 2026-08-27.
 * [zdb](https://github.com/Zelldon/zdb) ⭐ 34 | 🐛 32 | 🌐 Java | 📅 2026-08-24 - Zeebe debug and inspection tool, allows to inspect the log and internal state of Zeebe.
-* [zeebe-worker-java-template](https://github.com/camunda-community-hub/zeebe-worker-java-template) ⭐ 4 | 🐛 0 | 🌐 Java | 📅 2023-12-15 - Minimal template for a [Zeebe](https://github.com/camunda-cloud/zeebe) ⭐ 4,255 | 🐛 2,934 | 🌐 Java | 📅 2026-08-27
+* [zeebe-worker-java-template](https://github.com/camunda-community-hub/zeebe-worker-java-template) ⭐ 4 | 🐛 0 | 🌐 Java | 📅 2023-12-15 - Minimal template for a [Zeebe](https://github.com/camunda-cloud/zeebe) ⭐ 4,255 | 🐛 2,922 | 🌐 Java | 📅 2026-08-28
   Java [worker](https://docs.camunda.io/docs/components/concepts/job-workers/). This template adds only the bare minimum of dependencies.
 * [Helm Charts](https://helm.camunda.io/) - [Helm](https://helm.sh/) charts to deploy Zeebe to Kubernetes.
 * [Portainer Templates](https://camunda-community-hub.github.io/zeebe-portainer-templates/) - [Portainer](https://www.portainer.io/) templates to deploy Zeebe to Docker.
@@ -146,4 +146,4 @@ To the extent possible under law, Zeebe has waived all copyright and related or 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
