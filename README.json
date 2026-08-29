@@ -45,10 +45,10 @@
             "archived": false,
             "id": 54298946,
             "language": "Java",
-            "last_commit": "2026-08-28T03:46:38Z",
+            "last_commit": "2026-08-29T02:27:01Z",
             "owner": "camunda",
             "repo": "camunda",
-            "stars": 4255
+            "stars": 4256
           },
           "first_seen": "2026-08-28T04:21:05.936Z"
         },
@@ -61,10 +61,10 @@
             "archived": false,
             "id": 54298946,
             "language": "Java",
-            "last_commit": "2026-08-28T03:46:38Z",
+            "last_commit": "2026-08-29T02:27:01Z",
             "owner": "camunda",
             "repo": "camunda",
-            "stars": 4255
+            "stars": 4256
           },
           "first_seen": "2026-08-28T04:21:05.936Z"
         },
@@ -110,7 +110,7 @@
             "archived": false,
             "id": 136618661,
             "language": "C#",
-            "last_commit": "2026-08-26T01:00:02Z",
+            "last_commit": "2026-08-28T18:59:28Z",
             "owner": "camunda-community-hub",
             "repo": "zeebe-client-csharp",
             "stars": 114
@@ -322,7 +322,7 @@
             "archived": false,
             "id": 139808923,
             "language": "Java",
-            "last_commit": "2026-08-28T00:38:53Z",
+            "last_commit": "2026-08-28T23:49:59Z",
             "owner": "camunda-community-hub",
             "repo": "script-connector",
             "stars": 33
@@ -376,10 +376,10 @@
             "archived": false,
             "id": 54298946,
             "language": "Java",
-            "last_commit": "2026-08-28T03:46:38Z",
+            "last_commit": "2026-08-29T02:27:01Z",
             "owner": "camunda",
             "repo": "camunda",
-            "stars": 4255
+            "stars": 4256
           },
           "first_seen": "2026-08-28T04:21:05.936Z"
         },
@@ -692,7 +692,7 @@
             "archived": false,
             "id": 469785700,
             "language": "Java",
-            "last_commit": "2026-08-26T10:40:23Z",
+            "last_commit": "2026-08-28T23:53:30Z",
             "owner": "camunda-community-hub",
             "repo": "camunda-8-benchmark",
             "stars": 21
@@ -762,7 +762,7 @@
             "archived": false,
             "id": 42704441,
             "language": "Scala",
-            "last_commit": "2026-08-27T19:52:52Z",
+            "last_commit": "2026-08-28T06:53:18Z",
             "owner": "camunda",
             "repo": "feel-scala",
             "stars": 136
@@ -806,7 +806,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T04:21:05.936Z",
+    "last_updated": "2026-08-29T02:47:49.566Z",
     "original_repository_info": {
       "archived": false,
       "id": 162282009,
