@@ -10,7 +10,7 @@
 <hr />
 </div>
 
-A curated list of awesome [Camunda Platform 8](https://camunda.com/platform/) projects, mostly driven by the community. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 182,557 | 🐛 219 | 🌐 Go | 📅 2026-08-28.
+A curated list of awesome [Camunda Platform 8](https://camunda.com/platform/) projects, mostly driven by the community. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 182,561 | 🐛 219 | 🌐 Go | 📅 2026-08-28.
 
 Previously, this list contained only Zeebe awesome-ness. Help us collect all things awesome about Camunda Platform 8 and Zeebe, the workflow engine powering Camunda Platform 8.
 
@@ -39,7 +39,7 @@ Client libraries to interact with Camunda Platform 8 and Zeebe
 * [Go](https://github.com/camunda-cloud/zeebe/tree/master/clients/go) ⭐ 4,256 | 🐛 2,920 | 🌐 Java | 📅 2026-08-29
 * [Node.js](https://github.com/camunda-community-hub/zeebe-client-node-js) ⚠️ Archived
   * [NestJS](https://github.com/camunda-community-hub/nestjs-zeebe#readme) ⭐ 28 | 🐛 0 | 🌐 TypeScript | 📅 2024-02-01
-* [C#](https://github.com/camunda-community-hub/zeebe-client-csharp) ⭐ 114 | 🐛 38 | 🌐 C# | 📅 2026-08-28
+* [C#](https://github.com/camunda-community-hub/zeebe-client-csharp) ⭐ 114 | 🐛 36 | 🌐 C# | 📅 2026-08-29
 * [WorkIt](https://github.com/VilledeMontreal/workit) ⭐ 62 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-10 - Node.js (TypeScript) client for both Zeebe and Camunda BPM platforms (Not updated for Zeebe 1.0.0)
 * [Rust](https://github.com/camunda-community-hub/zeebest) ⭐ 21 | 🐛 13 | 🌐 Rust | 📅 2025-08-20
 * [Delphi](https://github.com/camunda-community-hub/DelphiZeeBeClient) ⭐ 9 | 🐛 1 | 🌐 Pascal | 📅 2023-12-15
@@ -71,7 +71,7 @@ Bridge: A piece of software that connects Camunda Platform 8 or Zeebe with some 
 Job Worker: A special type of client that polls for and executes available jobs. In contrast to connectors and bridges, such workers do not connect to other active pieces of software primarily (for example, a 'DMN Connector' might connect Zeebe to a managed DMN Engine, a 'DMN worker' will use a DMN library to execute decisions).
 
 * [DMN Scala](https://github.com/camunda/dmn-scala/) ⭐ 42 | 🐛 26 | 🌐 Scala | 📅 2026-08-25 - Zeebe job worker using the Scala DMN engine
-* [Script](https://github.com/camunda-community-hub/zeebe-script-worker) ⭐ 33 | 🐛 3 | 🌐 Java | 📅 2026-08-28 - Zeebe job worker for evaluating JS, Groovy, Kotlin and FEEL scripts
+* [Script](https://github.com/camunda-community-hub/zeebe-script-worker) ⭐ 33 | 🐛 2 | 🌐 Java | 📅 2026-08-29 - Zeebe job worker for evaluating JS, Groovy, Kotlin and FEEL scripts
 * [Camunda DMN](https://github.com/camunda-community-hub/zeebe-dmn-worker) ⭐ 19 | 🐛 0 | 🌐 Java | 📅 2026-02-03 - Zeebe job worker using the Camunda DMN engine
 * [Zeebe Slack Worker](https://github.com/camunda-community-hub/zeebe-slack-worker) ⭐ 4 | 🐛 11 | 🌐 TypeScript | 📅 2023-12-15 - A Node.js library for building job workers that send messages to Slack based on service tasks.
 
@@ -117,7 +117,7 @@ Test utilities to help you develop Camunda Platform 8 or Zeebe-dependent applica
 * [Zeebe Test Container](https://github.com/camunda-community-hub/zeebe-test-container) ⭐ 24 | 🐛 17 | 🌐 Java | 📅 2026-08-21 - [TestContainers](https://testcontainers.org) module to help you write integration tests against configurable Zeebe instances.
 * [Benchmark Helm Profile](https://github.com/camunda-community-hub/camunda-8-helm-profiles/tree/main/google/benchmark) ⭐ 24 | 🐛 37 | 🌐 Makefile | 📅 2026-07-29 - a Helm chart configuration for benchmarking.
 * [Zeebe Chaos](https://github.com/zeebe-io/zeebe-chaos) ⭐ 23 | 🐛 46 | 🌐 Go | 📅 2026-08-26 - contains everything related to chaos engineering and Zeebe, like chaos experiments, an hypotheses backlog etc.
-* [Camunda 8 Benchmark (c8b)](https://github.com/camunda-community-hub/camunda-8-benchmark) ⭐ 21 | 🐛 37 | 🌐 Java | 📅 2026-08-28 - a load generator for Zeebe.
+* [Camunda 8 Benchmark (c8b)](https://github.com/camunda-community-hub/camunda-8-benchmark) ⭐ 21 | 🐛 36 | 🌐 Java | 📅 2026-08-29 - a load generator for Zeebe.
 * [Zeebe Worker Java Testutils](https://github.com/camunda-community-hub/zeebe-worker-java-testutils) ⭐ 9 | 🐛 9 | 🌐 Java | 📅 2025-06-05 - Utilities to test Zeebe workers implemented in Java
 * [Zeebe BPMN RSpec](https://github.com/ezcater/zeebe_bpmn_rspec) ⭐ 5 | 🐛 4 | 🌐 Ruby | 📅 2026-04-16 - Ruby gem to test workflow logic in Zeebe using RSpec.
 * [Zeebe Tuner](https://github.com/camunda-consulting/zeebe-tuner/) ⭐ 4 | 🐛 11 | 🌐 Java | 📅 2026-08-06 - an iterative benchmark runner parameterized using a spreadsheet.
