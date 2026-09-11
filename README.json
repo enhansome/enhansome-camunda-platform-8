@@ -78,11 +78,11 @@
             "id": 54298946,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-09-10T22:27:36Z",
-            "open_issues": 2835,
+            "last_commit": "2026-09-11T22:26:53Z",
+            "open_issues": 2864,
             "owner": "camunda",
             "repo": "camunda",
-            "stars": 4275,
+            "stars": 4274,
             "topics": [
               "bpmn",
               "grpc",
@@ -107,11 +107,11 @@
             "id": 54298946,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-09-10T22:27:36Z",
-            "open_issues": 2835,
+            "last_commit": "2026-09-11T22:26:53Z",
+            "open_issues": 2864,
             "owner": "camunda",
             "repo": "camunda",
-            "stars": 4275,
+            "stars": 4274,
             "topics": [
               "bpmn",
               "grpc",
@@ -617,11 +617,11 @@
             "id": 54298946,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-09-10T22:27:36Z",
-            "open_issues": 2835,
+            "last_commit": "2026-09-11T22:26:53Z",
+            "open_issues": 2864,
             "owner": "camunda",
             "repo": "camunda",
-            "stars": 4275,
+            "stars": 4274,
             "topics": [
               "bpmn",
               "grpc",
@@ -1292,7 +1292,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T22:31:42.302Z",
+    "last_updated": "2026-09-11T22:31:18.440Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Camunda Platform 8 Projects",
