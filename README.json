@@ -6,12 +6,12 @@
         {
           "node_type": "item",
           "title": "Java",
-          "description": null,
+          "description": "camunda/camunda",
           "children": [
             {
               "node_type": "item",
               "title": "Spring",
-              "description": null,
+              "description": "camunda-community-hub/spring-zeebe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -38,7 +38,7 @@
             {
               "node_type": "item",
               "title": "Micronaut",
-              "description": null,
+              "description": "camunda-community-hub/micronaut-zeebe-client",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -78,7 +78,7 @@
             "id": 54298946,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-10-02T23:31:12Z",
+            "last_commit": "2026-10-03T04:11:24Z",
             "open_issues": 2835,
             "owner": "camunda",
             "repo": "camunda",
@@ -98,7 +98,7 @@
         {
           "node_type": "item",
           "title": "Go",
-          "description": null,
+          "description": "camunda/camunda",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -107,7 +107,7 @@
             "id": 54298946,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-10-02T23:31:12Z",
+            "last_commit": "2026-10-03T04:11:24Z",
             "open_issues": 2835,
             "owner": "camunda",
             "repo": "camunda",
@@ -127,12 +127,12 @@
         {
           "node_type": "item",
           "title": "Node.js",
-          "description": null,
+          "description": "camunda-community-hub/zeebe-client-node-js",
           "children": [
             {
               "node_type": "item",
               "title": "NestJS",
-              "description": null,
+              "description": "camunda-community-hub/nestjs-zeebe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -179,7 +179,7 @@
         {
           "node_type": "item",
           "title": "C#",
-          "description": null,
+          "description": "camunda-community-hub/zeebe-client-csharp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -239,7 +239,7 @@
         {
           "node_type": "item",
           "title": "Rust",
-          "description": null,
+          "description": "camunda-community-hub/zeebest",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -269,7 +269,7 @@
         {
           "node_type": "item",
           "title": "Delphi",
-          "description": null,
+          "description": "camunda-community-hub/DelphiZeeBeClient",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -293,7 +293,7 @@
         {
           "node_type": "item",
           "title": "Ruby",
-          "description": null,
+          "description": "zeebe-io/zeebe-client-ruby",
           "children": [
             {
               "node_type": "item",
@@ -352,7 +352,7 @@
             {
               "node_type": "item",
               "title": "Pyzeebe",
-              "description": null,
+              "description": "camunda-community-hub/pyzeebe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -409,7 +409,7 @@
         {
           "node_type": "item",
           "title": "Kafka Connector",
-          "description": null,
+          "description": "camunda-community-hub/kafka-connect-zeebe",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -435,7 +435,7 @@
         {
           "node_type": "item",
           "title": "Node-RED Zeebe nodes",
-          "description": null,
+          "description": "camunda-community-hub/node-red-contrib-zeebe",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -608,7 +608,7 @@
         {
           "node_type": "item",
           "title": "Elasticsearch",
-          "description": null,
+          "description": "camunda/camunda",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -617,7 +617,7 @@
             "id": 54298946,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-10-02T23:31:12Z",
+            "last_commit": "2026-10-03T04:11:24Z",
             "open_issues": 2835,
             "owner": "camunda",
             "repo": "camunda",
@@ -637,7 +637,7 @@
         {
           "node_type": "item",
           "title": "Hazelcast",
-          "description": null,
+          "description": "camunda-community-hub/zeebe-hazelcast-exporter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -662,7 +662,7 @@
         {
           "node_type": "item",
           "title": "Kafka",
-          "description": null,
+          "description": "camunda-community-hub/zeebe-kafka-exporter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -687,7 +687,7 @@
         {
           "node_type": "item",
           "title": "Incident Alerter (Webhook)",
-          "description": null,
+          "description": "jwulf/zeebe-incident-alerter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -711,7 +711,7 @@
         {
           "node_type": "item",
           "title": "MongoDB",
-          "description": null,
+          "description": "crossid/zeebe-mongo-exporter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -732,7 +732,7 @@
         {
           "node_type": "item",
           "title": "Event Store",
-          "description": null,
+          "description": "jwulf/zeebe-eventstore-exporter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -758,7 +758,7 @@
         {
           "node_type": "item",
           "title": "CSV",
-          "description": null,
+          "description": "zeebe-io/zeebe-csv-exporter",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -783,7 +783,7 @@
         {
           "node_type": "item",
           "title": "NATS Streaming Server",
-          "description": null,
+          "description": "MrSaints/zeebe-nats-streaming-exporter",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1292,7 +1292,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:44:33.455Z",
+    "last_updated": "2026-10-03T04:34:41.704Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Camunda Platform 8 Projects",
